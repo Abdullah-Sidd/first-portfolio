@@ -1,0 +1,28 @@
+.a{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+.a-left{
+    flex: 1;
+   padding: 30px;
+}
+
+.a-right{
+    flex: 2;
+    padding: 40px;
+}
+
+.a-img{
+    border-radius: 20px;
+    box-shadow: 30px;
+    touch-action: pinch-zoom;
+}
+
+.a1-img{
+height: 120px;
+width: 120px;
+border-radius: 5px;
+}

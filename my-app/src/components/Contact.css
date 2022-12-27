@@ -1,0 +1,39 @@
+.c{
+    height: 100vh;
+    display: flex;
+}
+
+.left{
+    flex: 1;
+    padding: 50px;
+}
+.right{
+    flex: 1;
+    padding: 50px;
+}
+.x{
+    display: flex;
+}
+.y{
+    display: flex;
+}
+.z{
+    display: flex;
+}
+
+input{
+    width: 50%;
+    height: 50%;
+    margin: 10px 0px;
+}
+
+textarea{
+    width: 100%;
+}
+
+.r{
+    font-weight: lighter;
+    margin-top: 10px;
+    color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
